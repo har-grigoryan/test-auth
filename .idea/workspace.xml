@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../spring-search" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/cwb/cwb-rimm" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/cwb/cwb-sad" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/cwb/cwb-urm-editor" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/cwb/cwb-urm-engine" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/cwb/cwb-urm-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/grails-plugins/wf-utils" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/libraries/cwb-search" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/libraries/cwb-urm-core" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/libraries/cwb-urm-rabbitmq" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/payment-gateway/payment-gateway-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/payment-gateway/payment-gateway-server-bj" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../wfa/plugins/cwb-search" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="131" />
+    <option name="width" value="1430" />
+    <option name="height" value="788" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hellokoding.auth.WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+</project>
